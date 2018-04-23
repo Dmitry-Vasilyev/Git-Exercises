@@ -1,6 +1,6 @@
-GIT ADD +
-GIT modify +
-.gitignore +
+GIT ADD+ \n
+GIT modify+
+.gitignore+
 first commit+
 git diff+
 git rm+
