@@ -1,4 +1,5 @@
 GIT ADD +
 GIT modify +
 .gitignore +
-first commit+1
+first commit+
+git diff+
