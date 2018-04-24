@@ -17,3 +17,9 @@ git mv+
 git push+
 
 git log --pretty =format --graph gitk
+
+git reset+
+
+git --amend+
+
+git checkout+
