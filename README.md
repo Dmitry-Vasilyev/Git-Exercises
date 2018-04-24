@@ -15,3 +15,5 @@ git rm+
 git mv+
 
 git push+
+
+git log --pretty =format --graph gitk
