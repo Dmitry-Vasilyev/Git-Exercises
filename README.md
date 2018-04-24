@@ -1,6 +1,8 @@
-GIT ADD+
+git init+
 
-GIT modify+
+git add+
+
+git modify+
 
 .gitignore+
 
@@ -9,3 +11,7 @@ first commit+
 git diff+
 
 git rm+
+
+git mv+
+
+git push+
