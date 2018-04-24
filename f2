@@ -1,0 +1,29 @@
+[33mcommit 6970adfe72c3ad6db6e2ab0fecc09ad78ee99ff9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Dmitry-Vasilyev <dimav.programming@gmail.com>
+Date:   Tue Apr 24 11:23:19 2018 +0300
+
+    just ff
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 73fe90f..3aaa97f 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,6 +1,8 @@[m
+[31m-GIT ADD+[m
+[32m+[m[32mgit init+[m
+ [m
+[31m-GIT modify+[m
+[32m+[m[32mgit add+[m
+[32m+[m
+[32m+[m[32mgit modify+[m
+ [m
+ .gitignore+[m
+ [m
+[36m@@ -9,3 +11,7 @@[m [mfirst commit+[m
+ git diff+[m
+ [m
+ git rm+[m
+[32m+[m
+[32m+[m[32mgit mv+[m
+[32m+[m
+[32m+[m[32mgit push+[m
