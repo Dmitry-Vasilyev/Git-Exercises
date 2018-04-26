@@ -23,3 +23,5 @@ git reset+
 git --amend+
 
 git checkout+
+
+git pull+
