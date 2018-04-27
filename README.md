@@ -25,3 +25,10 @@ git --amend+
 git checkout+
 
 git pull+
+
+git checkout again+
+
+git branch+
+
+git merge+
+
